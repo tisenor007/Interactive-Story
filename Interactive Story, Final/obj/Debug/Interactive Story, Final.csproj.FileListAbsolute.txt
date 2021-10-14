@@ -1,0 +1,8 @@
+E:\Visual studio\Interactive Story, Final\Interactive Story, Final\obj\Debug\Interactive Story, Final.csprojAssemblyReference.cache
+E:\Visual studio\Interactive Story, Final\Interactive Story, Final\obj\Debug\Interactive Story, Final.csproj.CoreCompileInputs.cache
+E:\Visual studio\Interactive Story, Final\Interactive Story, Final\bin\Debug\Interactive Story, Final.exe.config
+E:\Visual studio\Interactive Story, Final\Interactive Story, Final\bin\Debug\Interactive Story, Final.exe
+E:\Visual studio\Interactive Story, Final\Interactive Story, Final\bin\Debug\Interactive Story, Final.pdb
+E:\Visual studio\Interactive Story, Final\Interactive Story, Final\obj\Debug\Interactive Story, Final.exe
+E:\Visual studio\Interactive Story, Final\Interactive Story, Final\obj\Debug\Interactive Story, Final.pdb
+E:\Visual studio\Interactive Story, Final\Interactive Story, Final\bin\Debug\Story.txt

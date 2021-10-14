@@ -1,0 +1,21 @@
+﻿THE WOODS
+You find yourself waking up in the woods, near an empty tent with no one around, you have no recolection what happened. What do you do?;Search the tent.;Try to leave and find help.;2;3
+Dust is now fast approaching, when you search the tent, it has a bed inside and a fire nearby. What do you do?;Stay the night.;Leave and try to find help.;4;3
+Dust is now fast approaching, leaving makes you follow a path that comes to a split. What do you do?;Go left of the path.;Go right of the path.;5;6
+Staying the night in the tent leaves you well rested in the morning. What do you do?;Stay a little while.;Leave and try to find help.;7;3
+This path, you walk for several hours but you see light a head, you hear leaves crunch behind you. What do you do?;Run faster down the path.;Turn around to see what noise is.;8;9
+This path, after you have walked for hours you come across a cabin. What do you do?;Go to the cabin.;Keep walking along path.;10;11
+Staying at the tent leaves you with no food, so you start to get hungry. What do you do?;Leave to go find help.;Stay some more.;3;12
+Something is chasing you, running faster down the path makes you come across an opening in the woods. What do you do?;Go through the opening.;Stop.;13;9
+A bear emerges from the woods, the bear looks hungry. What do you do?;Make yourself look bigger than the bear.;Run in the other direction;14;8
+The cabin seems to not be abandoned but there is warmth and it is open. What do you do?;Spend the night and sleep in cabin bed.;Leave and continue down path.;15;11
+If you walk down the path, you lose location of the cabin and trail, you are lost and there is no hope for you. You will either die of starvation or something in the woods will kill you.;Keep walking.;Keep walking.;11;11
+Staying more makes you feel weak, you fall to your knees and die of starvation.
+Going through the opening in the woods reveals a city. Whatever has stopped chasing you. You are safe!
+Making yourself look bigger than the bear, the bear feels intimidated and kills you.
+When you spend the night in the cabin you wake to a man aiming a gun at you asking you what you are doing in his house. What do you do?;Fight the man.;Run out of the cabin and run down the path;16;8
+Fighting the man makes him shoot you and you die.
+
+
+
+
